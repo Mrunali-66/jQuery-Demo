@@ -1,0 +1,20 @@
+body{
+    background-color: #CB9DF0;
+}
+.big-title{
+    color: #FFF9BF;
+    font-size: 10rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.margin{
+    margin: 150px;
+}
+.button-group{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    border-radius: 15%;
+    padding: 10px;
+    color:#000B58;
+    background-color: #F0C1E1;
+}
